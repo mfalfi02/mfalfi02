@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello I'm  Muhammad Fatkhul Alfi👋
 
 <!--
 **mfalfi02/mfalfi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently studying on **https://widyadharma.ac.id/**
+
+- 🌱 I’m currently learning **Laravel** Framework
+
+-
+
+![Hi](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkzNnkycjk5emZiZjAxYWc0M3ZhcWJqbXBjcXB6NHpmM2FsazdhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vQSQ3cNXuDGo/giphy.gif)
