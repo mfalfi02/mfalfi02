@@ -32,16 +32,16 @@
 <img src="https://img.shields.io/badge/KFC-F40027?style=for-the-badge&logo=kfc&logoColor=white" />
 
 
-### Connect with me
-![https://instagram.com/mfalfi_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+<!-- ### Connect with me -->
+<!-- ![https://instagram.com/mfalfi_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://linkedin.com/in/muhammad alfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://tiktok.com/@mfalfi_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-<!-- <h3 align="left">Connect with me:</h3>
+![https://tiktok.com/@mfalfi_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) -->
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad alfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
 <a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfalfi_" height="30" width="40" /></a>
 <a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png" alt="@mfalfi_" height="30" width="40" /></a>
-</p> -->
+</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mfalfi02&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
