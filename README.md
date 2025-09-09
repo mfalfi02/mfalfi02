@@ -1,6 +1,6 @@
 
 ## Holla, Ahlan , Hello,Ni hao, Konnichiwa,Halo👋
-![MFAlfi](img/alfisampul.png)
+![MFAlfi](img/alfi.png)
 # 💫 About Me:
 ## I'm Muhammad Fatkhul Alfi👋
 <!--
