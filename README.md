@@ -38,9 +38,9 @@
 ![https://tiktok.com/@mfalfi_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad alfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-alfi-98a22a304/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
 <a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfalfi_" height="30" width="40" /></a>
-<a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png" alt="@mfalfi_" height="30" width="40" /></a>
+<a href="https://www.tiktok.com/@mfalfi_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png" alt="@mfalfi_" height="30" width="40" /></a>
 </p>
 
 # 📊 GitHub Stats:
@@ -59,11 +59,11 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad alfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
 <a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfalfi_" height="30" width="40" /></a>
-</p>
+</p> -->
 
 
 
