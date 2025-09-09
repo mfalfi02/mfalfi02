@@ -1,25 +1,17 @@
 
-## Holla, Ahlan , Hello,Ni hao, Konnichiwa,Halo👋
+# Holla, Ahlan , Hello,Ni hao, Konnichiwa,Halo👋
  ![MFAlfi](img/alfi.png)
 # 💫 About Me:
-### I'm Muhammad Fatkhul Alfi👋
-<!--
-**mfalfi02/mfalfi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammad Fatkhul Alfi</h1>
+<h3 align="center">UI/UX Designer | Web Developer</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently studying on **https://widyadharma.ac.id/**
 
-- 🌱 I’m currently learning **Laravel** Framework
+- 🔭 I’m currently studying on [https://widyadharma.ac.id](https://widyadharma.ac.id)
+
+- 🌱 I’m currently learning **Laravel Frameworks**
+
+- 📫 How to reach me **mfalfi02@gmail.com**
 
 ### Skill
 
@@ -41,10 +33,15 @@ Here are some ideas to get you started:
 
 
 ### Connect with me
-![https://www.instagram.com/mfalfi_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-![https://www.linkedin.com/in/muhammad-alfi-98a22a304/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://www.tiktok.com/@mfalfi_?lang=en-GB](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
-
+![https://instagram.com/mfalfi_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://linkedin.com/in/muhammad alfi](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![https://tiktok.com/@mfalfi_](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad alfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
+<a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfalfi_" height="30" width="40" /></a>
+<a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tiktok_icon.svg/2048px-Tiktok_icon.svg.png" alt="@mfalfi_" height="30" width="40" /></a>
+</p> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mfalfi02&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -59,6 +56,22 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mfalfi02&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad alfi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad alfi" height="30" width="40" /></a>
+<a href="https://instagram.com/mfalfi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mfalfi_" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ![HI](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmkzNnkycjk5emZiZjAxYWc0M3ZhcWJqbXBjcXB6NHpmM2FsazdhcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8vQSQ3cNXuDGo/giphy.gif)
