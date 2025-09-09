@@ -1,8 +1,8 @@
 
 ## Holla, Ahlan , Hello,Ni hao, Konnichiwa,Halo👋
-![MFAlfi](img/alfi.png)
+ ![MFAlfi](img/alfi.png)
 # 💫 About Me:
-## I'm Muhammad Fatkhul Alfi👋
+### I'm Muhammad Fatkhul Alfi👋
 <!--
 **mfalfi02/mfalfi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 
 
 ### Connect with me
-![https://www.instagram.com/mfalfi_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![https://instagram.com/mfalfi_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://www.linkedin.com/in/muhammad-alfi-98a22a304/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.tiktok.com/@mfalfi_?lang=en-GB](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
